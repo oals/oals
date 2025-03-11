@@ -9,6 +9,7 @@
  
   <h5>
    Hi there 👋.<br/>
+
   </h5>
   
   ﹏﹏﹏﹏﹏﹏﹏
@@ -31,10 +32,18 @@
  <img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
  
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
- <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/>
+ <img src="https://img.shields.io/badge/IntelliJ-004088?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/>
  
-  <br/>
- 
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oals" alt="Anurag's GitHub stats" width="45%"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oals" alt="Top Languages" width="20%" />
+</p>
+
+
+
 
 </div>
 
