@@ -7,15 +7,7 @@
 
   ![Profile Demo](https://tech-orbit.wontory.dev/api?title=oals&tech=Spring%20Boot,Flutter&size=300)
  
-  <h5>
-  안녕하세요. 👋.<br/>
 
-  </h5>
-  
-  ﹏﹏﹏﹏﹏﹏﹏
-  <br/>
- 
- <h5>⚡사용 기술⚡</h5>
  <br/>
 
   <h5>어플</h5>
