@@ -12,7 +12,6 @@
 
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=oals" alt="Anurag's GitHub stats" width="65%"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oals" alt="Top Languages" width="30%" />
   </p>
   
