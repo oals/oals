@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-004088?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/>
    
-    <br/>
+  <br/>
   <br/>
 
  <p align="center">
