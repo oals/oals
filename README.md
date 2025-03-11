@@ -8,34 +8,34 @@
   ![Profile Demo](https://tech-orbit.wontory.dev/api?title=oals&tech=Spring%20Boot,Flutter&size=300)
  
   <h5>
-   Hi there 👋.<br/>
+  안녕하세요. 👋.<br/>
 
   </h5>
   
   ﹏﹏﹏﹏﹏﹏﹏
   <br/>
  
- <h5>⚡Tech Skill⚡</h5>
+ <h5>⚡사용 기술⚡</h5>
  <br/>
 
-  <h5>Application</h5>
+  <h5>어플</h5>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
   
-  <h5>Web</h5>
+  <h5>웹</h5>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/angular.js-DD0031?style=flat-square&logo=angular&logoColor=white"/>
   
-  <h5>Database Solutions</h5>
+  <h5>데이터베이스 솔루션</h5>
   <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat-square&logo=mariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dbeaver-382923?style=flat-square&logo=Dbeaver&logoColor=white"/>
     
-  <h5>Design</h5>
+  <h5>디자인</h5>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
     
-  <h5>IDE</h5>
+  <h5>통합 개발 환경</h5>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-004088?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/>
    
