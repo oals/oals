@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/angular.js-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-  <h5>데이터베이스 솔루션</h5>
+  <h5>데이터베이스</h5>
   <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat-square&logo=mariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dbeaver-382923?style=flat-square&logo=Dbeaver&logoColor=white"/>
@@ -30,10 +30,7 @@
   <br/>
   <br/>
 
- <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oals" alt="Top Languages" width="30%" />
-  </p>
-  
+
 
 
 
