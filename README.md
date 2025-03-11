@@ -10,6 +10,17 @@
 
  <br/>
 
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=oals" alt="Anurag's GitHub stats" width="65%"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oals" alt="Top Languages" width="30%" />
+  </p>
+  
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  
   <h5>어플</h5>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
@@ -32,15 +43,7 @@
   <img src="https://img.shields.io/badge/IntelliJ-004088?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/>
    
   
-  <br/>
-  <br/>
-  <br/>
-  <br/>
   
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=oals" alt="Anurag's GitHub stats" width="65%"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oals" alt="Top Languages" width="30%" />
-  </p>
 
 
 
