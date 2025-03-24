@@ -17,10 +17,10 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/angular.js-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+   <img src="https://img.shields.io/badge/lodash-000000?style=flat-square&logo=lodash&logoColor=blue"/>
   <h5>데이터베이스</h5>
   <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat-square&logo=mariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dbeaver-382923?style=flat-square&logo=Dbeaver&logoColor=white"/>
   <h5>디자인</h5>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
   <h5>통합 개발 환경</h5>
