@@ -17,16 +17,13 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/angular.js-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-   <img src="https://img.shields.io/badge/lodash-000000?style=flat-square&logo=lodash&logoColor=blue"/>
-  <h5>데이터베이스</h5>
-  <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat-square&logo=mariaDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
   <h5>디자인</h5>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <h5>통합 개발 환경</h5>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ-004088?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/>
-   
+  <h5>버전 관리</h5>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+
   <br/>
   <br/>
 
